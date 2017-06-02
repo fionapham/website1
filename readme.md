@@ -1,5 +1,5 @@
-## Github experimentation
+## Github Experimentation
 
- Hello everyone! Nice to meet you
+ Hello everyone! Nice to meet you!
 
-### Just trying something 
+### Just trying something new
